@@ -13,3 +13,7 @@ Users must authorize using the the `Bearer` authorization method, with a token.
 * image_max_width: Max image width, in pixels;
 * image_max_height: Max image height, in pixels;
 * image_max_size: Max image size, in bytes;
+
+## Dependencies ##
+
+This example application depends on the [FOSRestBundle](https://symfony.com/doc/master/bundles/FOSRestBundle/index.html). You can install it via Composer.
